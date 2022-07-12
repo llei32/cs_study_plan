@@ -32,6 +32,21 @@
 
 课程：深入理解计算机系统
 
+参考课程：哈佛大学[CS50: introduction to Computer Science](https://cs50.harvard.edu/college/2021/spring/notes/0/)
+
+参考书籍：
+
+参考视频：
+
+产出目标：
+
+挑战难度：
+
+说明：
+
+
+课程：深入理解计算机系统
+
 参考课程：华盛顿大学[CSE351: The Hardware/Software Interface](http://courses.cs.washington.edu/courses/cse351/)
 
 参考书籍：[深入理解计算机系统(CSAPP)](http://product.dangdang.com/24106647.html)
@@ -43,6 +58,8 @@
 挑战难度：4星
 
 说明：这门课程是系统编程基础，也是后续操作系统/网络/数据库/编译等课程的基础，相关内容是通向系统架构师的基本功。这门课比较贴近企业实战，对动手能力要求很高，课程一大目标是要程序员写出对机器友好的高性能代码。
+
+
 
 ### 2.3 第1年下半年
 
@@ -59,6 +76,23 @@
 挑战难度：4星
 
 说明：数据结构的重要性毋庸置疑，伯克利的CS课程都是比较偏向实战型工程师的，纯理论的东西相对少。本课的重点是树立抽象编程思维，务必把所有Labs/Homeworks/Projects都搞定。
+
+
+课程：算法
+
+参考课程：MIT[6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+
+参考书籍：
+
+参考视频：
+
+产出目标：
+
+挑战难度：
+
+说明：
+
+
 
 ### 2.4 第2年上半年
 
